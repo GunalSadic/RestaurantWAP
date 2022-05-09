@@ -1,0 +1,26 @@
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.AssemblyReference.cache
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.AddRegistrationForm.resources
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.Form1.resources
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.Properties.Resources.resources
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.GenerateResource.cache
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.CoreCompileInputs.cache
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.exe.config
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.exe
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.pdb
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.exe
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.pdb
+D:\Facultate\An 2\Sem 2\WinAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.EditRegistrationForm.resources
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.exe.config
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.exe
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\bin\Debug\RestaurantV2.pdb
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.AssemblyReference.cache
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.SuggestedBindingRedirects.cache
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.AddRegistrationForm.resources
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.EditRegistrationForm.resources
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.Form1.resources
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.Properties.Resources.resources
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.GenerateResource.cache
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.csproj.CoreCompileInputs.cache
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.exe
+D:\Scoala\Facultate, Anul 2, Sem 2\WAP\RestaurantV2\RestaurantV2\obj\Debug\RestaurantV2.pdb
